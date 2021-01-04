@@ -1,0 +1,85 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
+.name-style{
+    color: tomato;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+img{
+    width: 100%;
+    
+}
+.hire-button{
+    color: white;
+    background-image: linear-gradient(rgb(248, 128, 107), tomato);
+    padding: 8px 13px;
+    font-size: 12px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+section{
+    height: 500px;
+    
+}
+.top-banner{
+   background-image: url("/images/top-banner.png");
+   background-repeat: no-repeat;
+}
+.dream-bg{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.experi{
+    font-size: 40px;
+    font-weight: 700;
+}
+.tamato{
+    color: tomato;
+    font-size: 30px;
+}
+.present{
+    font-size: 20px;
+}
+.box-style{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+    background-color: white;
+}
+.exprience-area{
+    background-image: url("/images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#half-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.foo-ter{
+    text-align: center;
+    font-size: 15px;
+}

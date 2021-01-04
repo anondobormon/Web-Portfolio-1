@@ -65,7 +65,7 @@ section{
     background-color: white;
 }
 .exprience-area{
-    background-image: url("/images/exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
